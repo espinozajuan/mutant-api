@@ -51,4 +51,14 @@ cd frontend
 npm run dev
 ```
 
-[In progress]
+### Step 7: Check the DB
+
+```bash
+# After running the firebase emulator you can go to:
+
+http://localhost:4000/firestore
+
+# to check the DB
+```
+
+### Vercel deployment link: [Click me](https://mutant-api-three.vercel.app/)
