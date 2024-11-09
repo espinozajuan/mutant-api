@@ -61,4 +61,10 @@ http://localhost:4000/firestore
 # to check the DB
 ```
 
+### Additional information:
+
+Stats API URL: [https://stats-454vjqaszq-uc.a.run.app](https://stats-454vjqaszq-uc.a.run.app)
+
+Mutant API URL: [https://mutant-454vjqaszq-uc.a.run.app](https://mutant-454vjqaszq-uc.a.run.app)
+
 ### Vercel deployment link: [Click me](https://mutant-api-three.vercel.app/)
